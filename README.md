@@ -96,4 +96,4 @@ A sample dataset is included in this repository due to file size limitations.
 ## 👤 Author
 
 A. Jeremiah Martins  
-Data Analyst | Power BI | SQL | Data Storytelling
+Data Analyst | Excel | Power BI | SQL | Data Storytelling
